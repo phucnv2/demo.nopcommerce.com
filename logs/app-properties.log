@@ -1,0 +1,216 @@
+[INFO] 13-07-2023 00:56:13 [main] LogUtils - Phúc
+[INFO] 15-07-2023 00:00:48 [main] LogUtils - Phúc
+[INFO] 15-07-2023 00:01:10 [main] LogUtils - Phúc
+[INFO] 15-07-2023 00:02:17 [main] LogUtils - Phúc
+[INFO] 15-07-2023 00:03:00 [main] LogUtils - Phúc
+[INFO] 15-07-2023 00:03:16 [main] LogUtils - Phúc
+[INFO] 15-07-2023 00:13:51 [main] LogUtils - Running test case loginPageSuccess
+[INFO] 15-07-2023 00:13:51 [main] LogUtils - Phúc
+[INFO] 15-07-2023 00:14:07 [main] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 15-07-2023 00:14:09 [main] LogUtils - Running test case loginPageSuccess1
+[INFO] 15-07-2023 00:14:09 [main] LogUtils - Phúc
+[INFO] 15-07-2023 00:14:25 [main] LogUtils - Test case loginPageSuccess1 is passed.
+[INFO] 15-07-2023 00:14:26 [main] LogUtils - End testing Test
+[INFO] 15-07-2023 00:15:11 [TestNG-test=Login test chorme-2] LogUtils - Running test case loginPageSuccess1
+[INFO] 15-07-2023 00:15:11 [TestNG-test=Login test chorme-1] LogUtils - Running test case loginPageSuccess
+[INFO] 15-07-2023 00:15:11 [TestNG-test=Login test chorme-2] LogUtils - Phúc
+[INFO] 15-07-2023 00:15:11 [TestNG-test=Login test chorme-1] LogUtils - Phúc
+[INFO] 15-07-2023 00:15:28 [TestNG-test=Login test chorme-1] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 15-07-2023 00:15:28 [TestNG-test=Login test chorme-2] LogUtils - Test case loginPageSuccess1 is passed.
+[INFO] 15-07-2023 00:15:30 [main] LogUtils - End testing Login test chorme
+[INFO] 16-07-2023 23:08:14 [main] LogUtils - Running test case loginPageSuccess
+[INFO] 16-07-2023 23:08:15 [main] LogUtils - Phúc
+[INFO] 16-07-2023 23:10:03 [main] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 16-07-2023 23:10:05 [main] LogUtils - Running test case loginPageSuccess1
+[INFO] 16-07-2023 23:10:05 [main] LogUtils - Phúc
+[ERROR] 16-07-2023 23:10:07 [main] LogUtils - Test case loginPageSuccess1 is failed.
+[ERROR] 16-07-2023 23:10:07 [main] LogUtils - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0de462289ce99cbe3163a7fd5d06147e, executeScript {script=return document.readyState, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Onlap.vn\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52733}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52733/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0de462289ce99cbe3163a7fd5d06147e
+[ERROR] 16-07-2023 23:10:07 [main] LogUtils - Test case loginPageSuccess1 is failed.
+[ERROR] 16-07-2023 23:10:07 [main] LogUtils - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0de462289ce99cbe3163a7fd5d06147e, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Onlap.vn\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52733}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52733/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 0de462289ce99cbe3163a7fd5d06147e
+[INFO] 16-07-2023 23:10:07 [main] LogUtils - End testing SeleniumTestNGParallel
+[INFO] 17-07-2023 00:06:10 [main] LogUtils - Running test case loginPageSuccess
+[INFO] 17-07-2023 00:06:10 [main] LogUtils - Phúc
+[INFO] 17-07-2023 00:06:26 [main] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 17-07-2023 00:06:28 [main] LogUtils - End testing SeleniumTestNGParallel
+[INFO] 17-07-2023 22:37:18 [main] LogUtils - Running test case loginPageSuccess
+[INFO] 17-07-2023 22:37:19 [main] LogUtils - Phúc
+[ERROR] 17-07-2023 22:38:00 [main] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 17-07-2023 22:38:00 [main] LogUtils - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9e6ed3649e2fb94170b0dbab33cac463, executeScript {script=return document.readyState, args=[]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Onlap.vn\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57102}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57102/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e6ed3649e2fb94170b0dbab33cac463
+[ERROR] 17-07-2023 22:38:01 [main] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 17-07-2023 22:38:01 [main] LogUtils - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.199)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9e6ed3649e2fb94170b0dbab33cac463, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Onlap.vn\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57102}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57102/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9e6ed3649e2fb94170b0dbab33cac463
+[INFO] 17-07-2023 22:38:01 [main] LogUtils - End testing SeleniumTestNGParallel
+[INFO] 17-07-2023 22:38:39 [main] LogUtils - Running test case loginPageSuccess
+[INFO] 17-07-2023 22:38:39 [main] LogUtils - Phúc
+[INFO] 17-07-2023 22:38:56 [main] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 17-07-2023 22:38:59 [main] LogUtils - Running test case loginPageSuccess1
+[INFO] 17-07-2023 22:38:59 [main] LogUtils - Phúc
+[INFO] 17-07-2023 22:39:17 [main] LogUtils - Test case loginPageSuccess1 is passed.
+[INFO] 17-07-2023 22:39:18 [main] LogUtils - End testing SeleniumTestNGParallel
+[INFO] 17-07-2023 22:43:55 [TestNG-test=Login test chorme-2] LogUtils - Running test case loginPageSuccess1
+[INFO] 17-07-2023 22:43:55 [TestNG-test=Login test chorme-1] LogUtils - Running test case loginPageSuccess
+[INFO] 17-07-2023 22:43:56 [TestNG-test=Login test chorme-2] LogUtils - Phúc
+[INFO] 17-07-2023 22:43:56 [TestNG-test=Login test chorme-1] LogUtils - Phúc
+[INFO] 17-07-2023 22:44:50 [TestNG-test=Login test chorme-2] LogUtils - Test case loginPageSuccess1 is passed.
+[INFO] 17-07-2023 22:44:50 [TestNG-test=Login test chorme-1] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 17-07-2023 22:44:51 [main] LogUtils - End testing Login test chorme
+[INFO] 17-07-2023 22:51:26 [TestNG-test=Login test chorme-2] LogUtils - Running test case loginPageSuccess1
+[INFO] 17-07-2023 22:51:26 [TestNG-test=Login test chorme-1] LogUtils - Running test case loginPageSuccess
+[INFO] 17-07-2023 22:51:27 [TestNG-test=Login test chorme-2] LogUtils - Phúc
+[INFO] 17-07-2023 22:51:27 [TestNG-test=Login test chorme-1] LogUtils - Phúc
+[INFO] 17-07-2023 22:51:50 [TestNG-test=Login test chorme-1] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 17-07-2023 22:51:56 [TestNG-test=Login test chorme-2] LogUtils - Test case loginPageSuccess1 is passed.
+[INFO] 17-07-2023 22:51:56 [main] LogUtils - End testing Login test chorme
+[INFO] 17-07-2023 22:55:16 [TestNG-test=Login test chorme-1] LogUtils - Running test case loginPageSuccess
+[INFO] 17-07-2023 22:55:16 [TestNG-test=Login test chorme-2] LogUtils - Running test case loginPageSuccess1
+[INFO] 17-07-2023 22:55:16 [TestNG-test=Login test chorme-1] LogUtils - Phúc
+[INFO] 17-07-2023 22:55:16 [TestNG-test=Login test chorme-2] LogUtils - Phúc
+[ERROR] 17-07-2023 22:55:28 [TestNG-test=Login test chorme-2] LogUtils - Test case loginPageSuccess1 is failed.
+[ERROR] 17-07-2023 22:55:28 [TestNG-test=Login test chorme-2] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='emai'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Onlap.vn\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58241}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58241/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 570e53f42373a6ff872cd51d2c6187fe
+[ERROR] 17-07-2023 22:55:28 [TestNG-test=Login test chorme-1] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 17-07-2023 22:55:29 [TestNG-test=Login test chorme-1] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id='emai'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Onlap.vn\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58234}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58234/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c2b95e513694682a09906e79ecc6e3b9
+[INFO] 17-07-2023 22:55:29 [main] LogUtils - End testing Login test chorme
+[INFO] 17-07-2023 23:21:56 [TestNG-test=Login test chorme-2] LogUtils - Running test case loginPageSuccess1
+[INFO] 17-07-2023 23:21:56 [TestNG-test=Login test chorme-1] LogUtils - Running test case loginPageSuccess
+[INFO] 17-07-2023 23:21:57 [TestNG-test=Login test chorme-2] LogUtils - Ph�c
+[INFO] 17-07-2023 23:21:57 [TestNG-test=Login test chorme-1] LogUtils - Ph�c
+[INFO] 17-07-2023 23:22:14 [TestNG-test=Login test chorme-1] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 17-07-2023 23:22:14 [TestNG-test=Login test chorme-2] LogUtils - Test case loginPageSuccess1 is passed.
+[INFO] 17-07-2023 23:22:15 [main] LogUtils - End testing Login test chorme
+[INFO] 17-07-2023 23:25:48 [TestNG-test=Login test chorme-2] LogUtils - Running test case loginPageSuccess1
+[INFO] 17-07-2023 23:25:48 [TestNG-test=Login test chorme-1] LogUtils - Running test case loginPageSuccess
+[INFO] 17-07-2023 23:25:49 [TestNG-test=Login test chorme-2] LogUtils - Ph�c
+[INFO] 17-07-2023 23:25:49 [TestNG-test=Login test chorme-1] LogUtils - Ph�c
+[INFO] 17-07-2023 23:26:05 [TestNG-test=Login test chorme-2] LogUtils - Test case loginPageSuccess1 is passed.
+[INFO] 17-07-2023 23:26:05 [TestNG-test=Login test chorme-1] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 17-07-2023 23:26:06 [main] LogUtils - End testing Login test chorme
+[INFO] 20-07-2023 00:11:20 [TestNG-PoolService-2] LogUtils - Running test case loginPageSuccess2
+[INFO] 20-07-2023 00:11:20 [TestNG-PoolService-1] LogUtils - Running test case loginPageSuccess2
+[INFO] 20-07-2023 00:11:20 [TestNG-PoolService-0] LogUtils - Running test case loginPageSuccess2
+[ERROR] 20-07-2023 00:11:24 [TestNG-PoolService-2] LogUtils - Test case loginPageSuccess2 is failed.
+[ERROR] 20-07-2023 00:11:24 [TestNG-PoolService-1] LogUtils - Test case loginPageSuccess2 is failed.
+[ERROR] 20-07-2023 00:11:25 [TestNG-PoolService-1] LogUtils - java.lang.AssertionError: 
+[ERROR] 20-07-2023 00:11:25 [TestNG-PoolService-2] LogUtils - java.lang.AssertionError: 
+[INFO] 20-07-2023 00:11:37 [TestNG-PoolService-0] LogUtils - Test case loginPageSuccess2 is passed.
+[INFO] 20-07-2023 00:11:38 [main] LogUtils - End testing SeleniumTestNGParallel
+[ERROR] 20-07-2023 00:28:24 [main] LogUtils - Test case loginPageSuccess3 is failed.
+[ERROR] 20-07-2023 00:28:24 [main] LogUtils - java.lang.RuntimeException: java.lang.RuntimeException: java.lang.NullPointerException: Cannot invoke "org.apache.poi.ss.usermodel.Cell.getCellType()" because "cell" is null
+[INFO] 20-07-2023 00:28:25 [main] LogUtils - End testing SeleniumTestNGParallel
+[ERROR] 20-07-2023 00:29:33 [main] LogUtils - Test case loginPageSuccess3 is failed.
+[ERROR] 20-07-2023 00:29:33 [main] LogUtils - java.lang.RuntimeException: java.lang.RuntimeException: java.lang.NullPointerException: Cannot invoke "org.apache.poi.ss.usermodel.Cell.getCellType()" because "cell" is null
+[INFO] 20-07-2023 00:29:34 [main] LogUtils - End testing SeleniumTestNGParallel
+[INFO] 20-07-2023 00:30:23 [main] LogUtils - Running test case loginPageSuccess3
+[ERROR] 20-07-2023 00:30:26 [main] LogUtils - Test case loginPageSuccess3 is failed.
+[ERROR] 20-07-2023 00:30:27 [main] LogUtils - java.lang.AssertionError: 
+[INFO] 20-07-2023 00:30:29 [main] LogUtils - Running test case loginPageSuccess3
+[ERROR] 20-07-2023 00:30:31 [main] LogUtils - Test case loginPageSuccess3 is failed.
+[ERROR] 20-07-2023 00:30:31 [main] LogUtils - java.lang.AssertionError: 
+[INFO] 20-07-2023 00:30:32 [main] LogUtils - End testing SeleniumTestNGParallel
+[INFO] 20-07-2023 00:31:20 [main] LogUtils - Running test case loginPageSuccess3
+[INFO] 20-07-2023 00:31:35 [main] LogUtils - Test case loginPageSuccess3 is passed.
+[INFO] 20-07-2023 00:31:37 [main] LogUtils - Running test case loginPageSuccess3
+[ERROR] 20-07-2023 00:31:39 [main] LogUtils - Test case loginPageSuccess3 is failed.
+[ERROR] 20-07-2023 00:31:39 [main] LogUtils - java.lang.AssertionError: 
+[INFO] 20-07-2023 00:31:41 [main] LogUtils - End testing SeleniumTestNGParallel
+[INFO] 20-07-2023 00:32:52 [TestNG-PoolService-0] LogUtils - Running test case loginPageSuccess3
+[INFO] 20-07-2023 00:32:52 [TestNG-PoolService-1] LogUtils - Running test case loginPageSuccess3
+[INFO] 20-07-2023 00:33:08 [TestNG-PoolService-0] LogUtils - Test case loginPageSuccess3 is passed.
+[INFO] 20-07-2023 00:33:09 [TestNG-PoolService-1] LogUtils - Test case loginPageSuccess3 is passed.
+[INFO] 20-07-2023 00:33:09 [main] LogUtils - End testing SeleniumTestNGParallel
+[INFO] 24-07-2023 22:30:08 [TestNG-test=Login Test on Chrome-2] LogUtils - Running test case loginPageSuccess1
+[INFO] 24-07-2023 22:30:08 [TestNG-test=Login Test on Chrome-1] LogUtils - Running test case loginPageSuccess
+[INFO] 24-07-2023 22:30:08 [TestNG-PoolService-2] LogUtils - Running test case loginPageSuccess2
+[INFO] 24-07-2023 22:30:08 [TestNG-PoolService-0] LogUtils - Running test case loginPageSuccess2
+[INFO] 24-07-2023 22:30:08 [TestNG-PoolService-0] LogUtils - Running test case loginPageSuccess3
+[INFO] 24-07-2023 22:30:08 [TestNG-PoolService-1] LogUtils - Running test case loginPageSuccess2
+[INFO] 24-07-2023 22:30:08 [TestNG-PoolService-1] LogUtils - Running test case loginPageSuccess3
+[INFO] 24-07-2023 22:30:09 [TestNG-test=Login Test on Chrome-2] LogUtils - Phúc
+[INFO] 24-07-2023 22:30:09 [TestNG-test=Login Test on Chrome-1] LogUtils - Phúc
+[ERROR] 24-07-2023 22:30:15 [TestNG-PoolService-1] LogUtils - Test case loginPageSuccess2 is failed.
+[ERROR] 24-07-2023 22:30:15 [TestNG-PoolService-2] LogUtils - Test case loginPageSuccess2 is failed.
+[ERROR] 24-07-2023 22:30:16 [TestNG-PoolService-2] LogUtils - java.lang.AssertionError: 
+[ERROR] 24-07-2023 22:30:16 [TestNG-PoolService-1] LogUtils - java.lang.AssertionError: 
+[INFO] 24-07-2023 22:30:29 [TestNG-PoolService-1] LogUtils - Test case loginPageSuccess3 is passed.
+[INFO] 24-07-2023 22:30:29 [TestNG-PoolService-0] LogUtils - Test case loginPageSuccess2 is passed.
+[INFO] 24-07-2023 22:30:30 [TestNG-test=Login Test on Chrome-2] LogUtils - Test case loginPageSuccess1 is passed.
+[INFO] 24-07-2023 22:30:30 [TestNG-test=Login Test on Chrome-1] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 24-07-2023 22:31:07 [TestNG-PoolService-0] LogUtils - Test case loginPageSuccess3 is passed.
+[INFO] 24-07-2023 22:31:07 [main] LogUtils - End testing Login Test on Chrome
+[INFO] 24-07-2023 22:31:52 [TestNG-PoolService-0] LogUtils - Running test case loginPageSuccess2
+[INFO] 24-07-2023 22:31:52 [TestNG-PoolService-2] LogUtils - Running test case loginPageSuccess2
+[INFO] 24-07-2023 22:31:52 [TestNG-PoolService-1] LogUtils - Running test case loginPageSuccess3
+[INFO] 24-07-2023 22:31:52 [TestNG-PoolService-1] LogUtils - Running test case loginPageSuccess2
+[INFO] 24-07-2023 22:31:52 [TestNG-PoolService-0] LogUtils - Running test case loginPageSuccess3
+[ERROR] 24-07-2023 22:31:57 [TestNG-PoolService-2] LogUtils - Test case loginPageSuccess2 is failed.
+[ERROR] 24-07-2023 22:31:57 [TestNG-PoolService-1] LogUtils - Test case loginPageSuccess2 is failed.
+[ERROR] 24-07-2023 22:31:57 [TestNG-PoolService-2] LogUtils - java.lang.AssertionError: 
+[ERROR] 24-07-2023 22:31:57 [TestNG-PoolService-1] LogUtils - java.lang.AssertionError: 
+[INFO] 24-07-2023 22:32:09 [TestNG-PoolService-0] LogUtils - Test case loginPageSuccess2 is passed.
+[INFO] 24-07-2023 22:32:09 [TestNG-PoolService-1] LogUtils - Test case loginPageSuccess3 is passed.
+[INFO] 24-07-2023 22:32:10 [TestNG-PoolService-0] LogUtils - Test case loginPageSuccess3 is passed.
+[INFO] 24-07-2023 22:32:11 [main] LogUtils - End testing Login Test on Chrome
+[INFO] 24-07-2023 22:39:22 [TestNG-test=Login Test on Chrome-1] LogUtils - Running test case loginPageSuccess
+[INFO] 24-07-2023 22:39:23 [TestNG-test=Login Test on Chrome-1] LogUtils - Phúc
+[INFO] 24-07-2023 22:39:38 [TestNG-test=Login Test on Chrome-1] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 24-07-2023 22:39:39 [main] LogUtils - End testing Login Test on Chrome
+[INFO] 25-07-2023 00:13:09 [TestNG-test=Login Test on Chrome-1] LogUtils - Running test case loginPageEmailInvalid
+[INFO] 25-07-2023 00:13:10 [TestNG-test=Login Test on Chrome-1] LogUtils - Ph�c
+[INFO] 25-07-2023 00:13:14 [TestNG-test=Login Test on Chrome-1] LogUtils - Test case loginPageEmailInvalid is passed.
+[INFO] 25-07-2023 00:13:15 [main] LogUtils - End testing Login Test on Chrome
+[INFO] 25-07-2023 00:17:18 [TestNG-test=Login Test on Chrome-1] LogUtils - Running test case loginPageSuccess
+[INFO] 25-07-2023 00:17:19 [TestNG-test=Login Test on Chrome-1] LogUtils - Ph�c
+[ERROR] 25-07-2023 00:17:25 [TestNG-test=Login Test on Chrome-1] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 25-07-2023 00:17:25 [TestNG-test=Login Test on Chrome-1] LogUtils - java.lang.AssertionError: 
+[INFO] 25-07-2023 00:17:27 [main] LogUtils - End testing Login Test on Chrome
+[INFO] 25-07-2023 00:18:35 [TestNG-test=Login Test on Chrome-1] LogUtils - Running test case loginPageSuccess
+[INFO] 25-07-2023 00:18:36 [TestNG-test=Login Test on Chrome-1] LogUtils - Ph�c
+[ERROR] 25-07-2023 00:18:40 [TestNG-test=Login Test on Chrome-1] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 25-07-2023 00:18:40 [TestNG-test=Login Test on Chrome-1] LogUtils - java.lang.AssertionError: 
+[INFO] 25-07-2023 00:18:41 [main] LogUtils - End testing Login Test on Chrome
+[INFO] 25-07-2023 23:14:44 [main] LogUtils - Running test case addNewCustomer
+[INFO] 25-07-2023 23:15:21 [main] LogUtils - Test case addNewCustomer is passed.
+[INFO] 25-07-2023 23:15:22 [main] LogUtils - End testing SeleniumTestNGParallel
+[INFO] 26-07-2023 15:42:37 [main] LogUtils - Running test case testUploadFile2
+[INFO] 26-07-2023 15:42:49 [main] LogUtils - Test case testUploadFile2 is passed.
+[INFO] 26-07-2023 15:42:50 [main] LogUtils - End testing SeleniumTestNGParallel

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite Login Test]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" parallel="methods" name="Login Test on Chrome(failed)" verbose="0">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="SeleniumTestNGPOM.testcases.LoginTest">
+        <methods>
+          <include name="createDriver"/>
+          <include name="closeDriver"/>
+          <include name="loginPageSuccess"/>
+        </methods>
+      </class> <!-- SeleniumTestNGPOM.testcases.LoginTest -->
+    </classes>
+  </test> <!-- Login Test on Chrome(failed) -->
+</suite> <!-- Failed suite [Suite Login Test] -->

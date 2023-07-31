@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53b9c481-a48f-49a9-8bc2-2eb5251dd627" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/HandleUploadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/app-properties.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app-properties.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/extentreport/extentreport.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/extentreport/extentreport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/keyword/WebUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/keyword/WebUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/CustomersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/CustomersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumTestNGPOM/testcases/CustomersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumTestNGPOM/testcases/CustomersTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2QChtYuSR8tWtLu4qIUmgYSEPLh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/AnhTester/SeleniumMaven42022Parallel",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.splitter.proportion": "0.16639479"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AnhTester\SeleniumTestNGParallel\src\test\resources\configs" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.HandleUploadFile.testUploadFile2">
+    <configuration name="CustomersTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.CustomersTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/AnhTester/SeleniumTestNGParallel/src/test-suites/LoginTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test-suites/LoginTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HandleUploadFile.testUploadFile2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.HandleUploadFile" />
+      <option name="METHOD_NAME" value="testUploadFile2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginPageSuccess2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.LoginTest" />
+      <option name="METHOD_NAME" value="loginPageSuccess2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.loginPageSuccess3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.LoginTest" />
+      <option name="METHOD_NAME" value="loginPageSuccess3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HandleUploadFile.testUploadFile2" />
+        <item itemvalue="TestNG.CustomersTest" />
+        <item itemvalue="TestNG.D:/AnhTester/SeleniumTestNGParallel/src/test-suites/LoginTest.xml" />
+        <item itemvalue="TestNG.LoginTest.loginPageSuccess3" />
+        <item itemvalue="TestNG.LoginTest.loginPageSuccess2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53b9c481-a48f-49a9-8bc2-2eb5251dd627" name="Changes" comment="" />
+      <created>1684863687490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684863687490</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-java" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+  </component>
+</project>
