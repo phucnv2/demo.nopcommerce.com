@@ -76,7 +76,7 @@ public class LoginTest extends BaseTest {
         excelHelper.setExcelFile("src/test/resources/datatest/Crm.xlsx","Login");
         // gọi hàm login để dùng
         loginPage.pageLoginSuccess(excelHelper.getCellData("EMAIL",1), excelHelper.getCellData("PASSWORD",1));
-        excelHelper.setCellData("Pass",1,"RESULD");
+//        excelHelper.setCellData("Pass",1,"RESULD");
     }
 //    @Test
 //    public void loginPageSuccess1() {

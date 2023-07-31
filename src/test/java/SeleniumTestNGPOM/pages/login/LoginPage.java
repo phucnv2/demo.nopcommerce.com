@@ -1,9 +1,9 @@
 package SeleniumTestNGPOM.pages.login;
 
-import SeleniumTestNGPOM.common.BaseTest;
-import SeleniumTestNGPOM.pages.DashboardPage;
+import SeleniumTestNGPOM.locator.login.LocatorLogin;
+import SeleniumTestNGPOM.pages.dashboard.DashboardPage;
 import helpers.PropertiesHelper;
-import keyword.WebUI;
+
 import static keyword.WebUI.*;
 import org.testng.Assert;
 import org.openqa.selenium.By;
@@ -13,8 +13,8 @@ import org.testng.AssertJUnit;
 public class LoginPage {
 //    private String URL = "https://crm.anhtester.com/admin/authentication";
     private String pageText = "Login";
-    private WebDriver driver;
-
+//    private WebDriver driver;
+//    LocatorLogin locatorLogin;
     //lưu Object của login. khai báo cái này để cho ngắn gọn và dễ chỉnh sửa. khai báo location
     By headerPage = By.xpath("//h1");
     By inputEmail = By.xpath("//input[@id='email']");

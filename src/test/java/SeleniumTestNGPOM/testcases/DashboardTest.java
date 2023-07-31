@@ -2,7 +2,7 @@ package SeleniumTestNGPOM.testcases;
 
 import SeleniumTestNGPOM.common.BaseTest;
 import SeleniumTestNGPOM.pages.customers.CustomersPage;
-import SeleniumTestNGPOM.pages.DashboardPage;
+import SeleniumTestNGPOM.pages.dashboard.DashboardPage;
 import SeleniumTestNGPOM.pages.login.LoginPage;
 import org.testng.annotations.Test;
 
@@ -13,7 +13,7 @@ public class DashboardTest extends BaseTest {
     @Test
     public void testOpenMenuDashboad(){
         loginPage = new LoginPage();
-        dashboardPage = loginPage.pageLoginSuccess("admin@example.com","123456"); // lien kêt trang
+        dashboardPage = loginPage.pageLoginSuccess("admin@example.comm","123456"); // lien kêt trang
 
         dashboardPage.verifyDashboardPage();
 

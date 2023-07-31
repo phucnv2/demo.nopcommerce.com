@@ -4,10 +4,9 @@ import SeleniumTestNGPOM.common.BaseTest;
 import SeleniumTestNGPOM.pages.customers.AddCustomerPage;
 import SeleniumTestNGPOM.pages.customers.CustomerDetailPage;
 import SeleniumTestNGPOM.pages.customers.CustomersPage;
-import SeleniumTestNGPOM.pages.DashboardPage;
+import SeleniumTestNGPOM.pages.dashboard.DashboardPage;
 import SeleniumTestNGPOM.pages.login.LoginPage;
 import helpers.CaptureHelpers;
-import keyword.WebUI;
 import org.testng.annotations.Test;
 
 public class CustomersTest extends BaseTest {

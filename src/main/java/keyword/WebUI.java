@@ -18,8 +18,8 @@ import java.util.List;
 import static drivers.DriverManager.getDriver;
 
 public class WebUI {
-    private static int EXPLICIT_WAIT_TIMEOUT = 10;
-    private static int WAIT_PAGE_LEADED_TIMEOUT = 20;
+    private static int EXPLICIT_WAIT_TIMEOUT = 20;
+    private static int WAIT_PAGE_LEADED_TIMEOUT = 30;
 
     public static void hoverOnElement(By by) {
         waitForElementVisible(by);
@@ -61,7 +61,7 @@ public class WebUI {
     @Step("Lấy URL: {0}")
     public static String getCurrentUrl() {
         waitForPageLoaded();
-        logConsole("Lấy URL" + getDriver().getCurrentUrl());
+        logConsole("Lấy URL " + getDriver().getCurrentUrl());
         ExtentTestManager.logMessage(Status.PASS,"Lấy URL: " + getDriver().getCurrentUrl());
 
         return getDriver().getCurrentUrl();
@@ -79,6 +79,17 @@ public class WebUI {
         ExtentTestManager.logMessage(Status.PASS,"Click on element: " + by);
 
     }
+
+    @Step("Click on element: {0}")
+    public static void clearText(By by) {
+        waitForElementVisible(by);
+        highLightElement(by);
+        getWebElement(by).clear();
+        logConsole("Clear text in element: " + by);
+        ExtentTestManager.logMessage(Status.PASS,"Clear text in element: " + by);
+
+    }
+
     @Step("Set text {1} on element {0}")
     public static void senkeyText(By by, String value) {
         waitForElementVisible(by);
@@ -87,6 +98,7 @@ public class WebUI {
         ExtentTestManager.logMessage(Status.PASS,"Set text " + value + " on element " + by);
 
     }
+
     @Step("Hiển thị text element: {0}")
     public static String getTextElement(By by) {
         waitForElementVisible(by);

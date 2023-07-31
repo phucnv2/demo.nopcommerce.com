@@ -214,3 +214,202 @@ Session ID: c2b95e513694682a09906e79ecc6e3b9
 [INFO] 26-07-2023 15:42:37 [main] LogUtils - Running test case testUploadFile2
 [INFO] 26-07-2023 15:42:49 [main] LogUtils - Test case testUploadFile2 is passed.
 [INFO] 26-07-2023 15:42:50 [main] LogUtils - End testing SeleniumTestNGParallel
+[INFO] 31-07-2023 23:53:03 [main] LogUtils - Running test case loginPageSuccess
+[ERROR] 31-07-2023 23:53:08 [main] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 31-07-2023 23:53:08 [main] LogUtils - java.lang.AssertionError: 
+[INFO] 31-07-2023 23:53:10 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 00:01:16 [main] LogUtils - Running test case loginPageSuccess
+[ERROR] 01-08-2023 00:01:21 [main] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 01-08-2023 00:01:21 [main] LogUtils - java.lang.AssertionError: Fail! Header is not match. expected [Admin area demoo] but found [Admin area demo]
+[INFO] 01-08-2023 00:01:22 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 00:04:52 [main] LogUtils - Running test case loginPageSuccess
+[ERROR] 01-08-2023 00:04:59 [main] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 01-08-2023 00:04:59 [main] LogUtils - java.lang.AssertionError: 
+[INFO] 01-08-2023 00:05:00 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 00:05:49 [main] LogUtils - Running test case loginPageSuccess
+[ERROR] 01-08-2023 00:05:56 [main] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 01-08-2023 00:05:56 [main] LogUtils - java.lang.AssertionError: 
+[INFO] 01-08-2023 00:05:57 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 00:07:10 [main] LogUtils - Running test case loginPageSuccess
+[INFO] 01-08-2023 00:07:18 [main] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 01-08-2023 00:07:18 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 00:09:13 [main] LogUtils - Running test case loginPageSuccess
+[ERROR] 01-08-2023 00:09:20 [main] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 01-08-2023 00:09:20 [main] LogUtils - java.lang.AssertionError: 
+[INFO] 01-08-2023 00:09:21 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 00:10:08 [main] LogUtils - Running test case loginPageSuccess
+[ERROR] 01-08-2023 00:10:17 [main] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 01-08-2023 00:10:17 [main] LogUtils - java.lang.AssertionError: 
+[INFO] 01-08-2023 00:10:18 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 00:11:31 [main] LogUtils - Running test case loginPageSuccess
+[INFO] 01-08-2023 00:11:39 [main] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 01-08-2023 00:11:39 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 00:17:27 [main] LogUtils - Running test case loginPageSuccess
+[INFO] 01-08-2023 00:17:36 [main] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 01-08-2023 00:17:37 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 00:52:45 [main] LogUtils - Running test case loginPageSuccess
+[INFO] 01-08-2023 00:52:53 [main] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 01-08-2023 00:52:54 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 00:59:20 [main] LogUtils - Running test case loginPageSuccess
+[INFO] 01-08-2023 00:59:28 [main] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 01-08-2023 00:59:29 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 00:59:51 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 00:59:58 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 00:59:58 [main] LogUtils - java.lang.AssertionError: Fail! Page is not Dashboard. expected [https://admin-demo.nopcommerce.com/Admin] but found [https://admin-demo.nopcommerce.com/login?returnurl=%2Fadmin%2F]
+[INFO] 01-08-2023 00:59:59 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:00:41 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:00:49 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:00:49 [main] LogUtils - java.lang.AssertionError: expected [true] but found [false]
+[INFO] 01-08-2023 01:00:50 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:02:03 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:02:10 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:02:10 [main] LogUtils - java.lang.AssertionError: expected [true] but found [false]
+[INFO] 01-08-2023 01:02:11 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:02:51 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:03:18 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:03:18 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='content-header']//h1 (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59398}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59398/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5593e0d63a0e2aa9dc32bcca68f576ff
+[INFO] 01-08-2023 01:03:19 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:06:35 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:07:03 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:07:03 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='content-header']//h1 (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59569}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59569/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e55e8d346a1c46535fc8d7d31f7d1fa
+[INFO] 01-08-2023 01:07:04 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:08:07 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:08:35 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:08:35 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //p[normalize-space()='Catalog'] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59671}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59671/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9fa36a8a88f2e84d409b12d74c3a37b
+[INFO] 01-08-2023 01:08:36 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:09:45 [main] LogUtils - Running test case openMenuCatalog
+[INFO] 01-08-2023 01:10:08 [main] LogUtils - Test case openMenuCatalog is passed.
+[INFO] 01-08-2023 01:10:08 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:17:55 [main] LogUtils - Running test case testOpenMenuDashboad
+[INFO] 01-08-2023 01:18:25 [main] LogUtils - Test case testOpenMenuDashboad is passed.
+[INFO] 01-08-2023 01:18:25 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:22:12 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:22:39 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:22:40 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //p[normalize-space()='Catalog'] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60429}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60429/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1ddf143a158ecc516fd04c32b6671c19
+[INFO] 01-08-2023 01:22:41 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:23:51 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:24:18 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:24:18 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //p[normalize-space()='Catalog'] (tried for 20 second(s) with 500 milliseconds interval)
+[ERROR] 01-08-2023 01:24:18 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:24:18 [main] LogUtils - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.110)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [abd0f38281f2f7dc635795100e650ec6, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:60543}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60543/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: abd0f38281f2f7dc635795100e650ec6
+[INFO] 01-08-2023 01:24:18 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:39:55 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:40:23 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:40:23 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //p[normalize-space()='Catalog'] (tried for 20 second(s) with 500 milliseconds interval)
+[ERROR] 01-08-2023 01:40:23 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:40:23 [main] LogUtils - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.110)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [030181da0c56ce107cc4de20cacddc4c, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61179}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61179/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 030181da0c56ce107cc4de20cacddc4c
+[INFO] 01-08-2023 01:40:23 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:42:04 [main] LogUtils - Running test case openMenuCatalog
+[INFO] 01-08-2023 01:44:32 [main] LogUtils - Test case openMenuCatalog is passed.
+[INFO] 01-08-2023 01:44:43 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:45:11 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:45:11 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='content-header']//h1 (tried for 20 second(s) with 500 milliseconds interval)
+[ERROR] 01-08-2023 01:45:11 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:45:11 [main] LogUtils - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.110)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b9a7711c1e8a618c30f3494c30d36c72, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61449}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61449/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b9a7711c1e8a618c30f3494c30d36c72
+[INFO] 01-08-2023 01:45:11 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:49:36 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:50:05 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:50:05 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='content-header']//h1 (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61640}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61640/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5442bc4218e69d4e28c710a5913284cf
+[INFO] 01-08-2023 01:50:06 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:50:34 [main] LogUtils - Running test case openMenuCatalog
+[INFO] 01-08-2023 01:50:59 [main] LogUtils - Test case openMenuCatalog is passed.
+[INFO] 01-08-2023 01:51:00 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:53:17 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:53:44 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:53:45 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='content-header']//h1 (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61873}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61873/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2a8ebb25e471ef659037da917c8c13cc
+[INFO] 01-08-2023 01:53:46 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:55:10 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 01:55:38 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 01:55:38 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //p[normalize-space()='Catalog'] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61985}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61985/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 860013757c6f08121e35e3a9b589494e
+[INFO] 01-08-2023 01:55:39 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:58:09 [main] LogUtils - Running test case testOpenMenuDashboad
+[ERROR] 01-08-2023 01:58:12 [main] LogUtils - Test case testOpenMenuDashboad is failed.
+[ERROR] 01-08-2023 01:58:12 [main] LogUtils - java.lang.AssertionError: 
+[INFO] 01-08-2023 01:58:13 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 01:59:19 [main] LogUtils - Running test case openMenuCatalog
+[INFO] 01-08-2023 01:59:26 [main] LogUtils - Test case openMenuCatalog is passed.
+[INFO] 01-08-2023 01:59:27 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 02:01:55 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 02:02:23 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 02:02:23 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //p[normalize-space()='Catalog'] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:62356}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62356/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ebe8208c6b81e9627323dcfbd23ea8bf
+[INFO] 01-08-2023 02:02:24 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 02:07:52 [main] LogUtils - Running test case testOpenMenuDashboad
+[ERROR] 01-08-2023 02:07:55 [main] LogUtils - Test case testOpenMenuDashboad is failed.
+[ERROR] 01-08-2023 02:07:55 [main] LogUtils - java.lang.AssertionError: 
+[INFO] 01-08-2023 02:07:57 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 02:29:18 [main] LogUtils - Running test case openMenuCatalog
+[ERROR] 01-08-2023 02:29:45 [main] LogUtils - Test case openMenuCatalog is failed.
+[ERROR] 01-08-2023 02:29:45 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='content-header']//h1 (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:63151}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63151/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c2073abd848888ca4a93df827bd8550
+[INFO] 01-08-2023 02:29:46 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 02:31:47 [main] LogUtils - Running test case openMenuCatalog
+[INFO] 01-08-2023 02:31:59 [main] LogUtils - Test case openMenuCatalog is passed.
+[INFO] 01-08-2023 02:32:00 [main] LogUtils - End testing demo.nopcommerce.com
