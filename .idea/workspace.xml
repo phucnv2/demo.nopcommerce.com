@@ -5,57 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53b9c481-a48f-49a9-8bc2-2eb5251dd627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/dashboard/LocatorDashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/login/LocatorLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/dashboard/DashboardPageCommerce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/login/LoginPageCommerce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/dashboard/DashboardTestCommerce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/login/LoginTestCommerce.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/app-properties.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app-properties.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/extentreport/extentreport.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/extentreport/extentreport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/records/addNewCustomer-25-07-2023 23-14-45.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/records/loginPageSuccess-15-07-2023 00-13-51.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/records/loginPageSuccess-15-07-2023 00-15-11.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/records/loginPageSuccess-16-07-2023 23-08-14.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/records/loginPageSuccess-17-07-2023 00-06-10.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/records/loginPageSuccess-17-07-2023 22-37-18.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/records/loginPageSuccess-17-07-2023 22-38-39.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/records/loginPageSuccess1-15-07-2023 00-14-09.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/records/loginPageSuccess1-15-07-2023 00-15-11" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/records/loginPageSuccess1-16-07-2023 23-10-05.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/records/loginPageSuccess1-17-07-2023 22-38-59.avi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/Phuc_123_16-07-2023 23-08-15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess1_17-07-2023 22-55-28.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess2_20-07-2023 00-11-25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess2_24-07-2023 22-30-16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess2_24-07-2023 22-31-57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess3_20-07-2023 00-30-27.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess3_20-07-2023 00-30-31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess3_20-07-2023 00-31-39.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess_17-07-2023 00-06-26.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess_17-07-2023 22-38-56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess_17-07-2023 22-55-29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess_25-07-2023 00-17-25.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/screenshots/loginPageSuccess_25-07-2023 00-18-40.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/keyword/WebUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/keyword/WebUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/dashboard/DashboardPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/login/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/login/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/CustomersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/CustomersTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/DashboardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/DashboardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/configs/data.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configs/data.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/datatest/Crm.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/datatest/Crm.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/keyword/WebUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/keyword/WebUI$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/keyword/WebUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/keyword/WebUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumTestNGPOM/pages/DashboardPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumTestNGPOM/pages/login/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumTestNGPOM/pages/login/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumTestNGPOM/testcases/CustomersTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumTestNGPOM/testcases/CustomersTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumTestNGPOM/testcases/DashboardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumTestNGPOM/testcases/DashboardTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SeleniumTestNGPOM/testcases/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SeleniumTestNGPOM/testcases/LoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/configs/data.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/configs/data.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/datatest/Crm.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/datatest/Crm.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test-suites/LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test-suites/LoginTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/login/LocatorLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/login/LocatorLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/login/LoginPageCommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/login/LoginPageCommerce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/login/LoginTestCommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/login/LoginTestCommerce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,19 +51,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/AnhTester/SeleniumMaven42022Parallel",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "settings.editor.splitter.proportion": "0.17939915"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/AnhTester/SeleniumMaven42022Parallel&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.17939915&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\AnhTester\SeleniumTestNGParallel\src\test\resources\configs" />
@@ -118,61 +74,18 @@
       <command value="mvn clean test" />
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DashboardTestCommerce.openMenuCatalog">
-    <configuration name="DashboardTestCommerce" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.D:/demo.nopcommerce.com/src/test-suites/LoginTest.xml">
+    <configuration name="D:/demo.nopcommerce.com/src/test-suites/LoginTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.dashboard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.dashboard" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.dashboard.DashboardTestCommerce" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test-suites/LoginTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DashboardTestCommerce.openMenuCatalog" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.dashboard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.dashboard" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.dashboard.DashboardTestCommerce" />
-      <option name="METHOD_NAME" value="openMenuCatalog" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DashboardTest.testOpenMenuDashboad" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.DashboardTest" />
-      <option name="METHOD_NAME" value="testOpenMenuDashboad" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HandleUploadFile.testUploadFile2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTestCommerce.loginEmailWrongFormat" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTestNG" />
       <extension name="coverage">
         <pattern>
@@ -180,27 +93,63 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.HandleUploadFile" />
-      <option name="METHOD_NAME" value="testUploadFile2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTestCommerce.loginPageSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.login.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases" />
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.login" />
       <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.login.LoginTestCommerce" />
-      <option name="METHOD_NAME" value="loginPageSuccess" />
+      <option name="METHOD_NAME" value="loginEmailWrongFormat" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestCommerce.loginPasswordWrong" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.login" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.login.LoginTestCommerce" />
+      <option name="METHOD_NAME" value="loginPasswordWrong" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestCommerce.loginUsernameNull" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.login" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.login.LoginTestCommerce" />
+      <option name="METHOD_NAME" value="loginUsernameNull" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestCommerce.loginUsernameWrong" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.login" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.login.LoginTestCommerce" />
+      <option name="METHOD_NAME" value="loginUsernameWrong" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -210,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DashboardTestCommerce.openMenuCatalog" />
-        <item itemvalue="TestNG.DashboardTest.testOpenMenuDashboad" />
-        <item itemvalue="TestNG.DashboardTestCommerce" />
-        <item itemvalue="TestNG.LoginTestCommerce.loginPageSuccess" />
-        <item itemvalue="TestNG.HandleUploadFile.testUploadFile2" />
+        <item itemvalue="TestNG.D:/demo.nopcommerce.com/src/test-suites/LoginTest.xml" />
+        <item itemvalue="TestNG.LoginTestCommerce.loginEmailWrongFormat" />
+        <item itemvalue="TestNG.LoginTestCommerce.loginPasswordWrong" />
+        <item itemvalue="TestNG.LoginTestCommerce.loginUsernameWrong" />
+        <item itemvalue="TestNG.LoginTestCommerce.loginUsernameNull" />
       </list>
     </recent_temporary>
   </component>

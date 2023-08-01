@@ -13,5 +13,7 @@ public class LocatorLogin {
     public static By messageErrorEmailInvalid = By.xpath("//div[@class='message-error validation-summary-errors']//li");
 
     public static By messagePasswordInvalid = By.xpath("//div[@class='message-error validation-summary-errors']//li");
+
+    public static By messageEmailWrongFormat = By.xpath("//span[@id='Email-error']");
     public static By checkboxRemember = By.xpath("//div[@class='inputs reversed']//input");
 }

@@ -413,3 +413,70 @@ Session ID: 9c2073abd848888ca4a93df827bd8550
 [INFO] 01-08-2023 02:31:47 [main] LogUtils - Running test case openMenuCatalog
 [INFO] 01-08-2023 02:31:59 [main] LogUtils - Test case openMenuCatalog is passed.
 [INFO] 01-08-2023 02:32:00 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 23:19:14 [main] LogUtils - Running test case loginUsernameNull
+[INFO] 01-08-2023 23:19:21 [main] LogUtils - Test case loginUsernameNull is passed.
+[INFO] 01-08-2023 23:19:22 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 23:21:19 [main] LogUtils - Running test case loginUsernameNull
+[ERROR] 01-08-2023 23:21:26 [main] LogUtils - Test case loginUsernameNull is failed.
+[ERROR] 01-08-2023 23:21:26 [main] LogUtils - java.lang.AssertionError: Fail! expected [Please enter your email.] but found [Please enter your email]
+[INFO] 01-08-2023 23:21:27 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 23:40:19 [main] LogUtils - Running test case loginUsernameWrong
+[ERROR] 01-08-2023 23:40:40 [main] LogUtils - Test case loginUsernameWrong is failed.
+[ERROR] 01-08-2023 23:40:40 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='message-error validation-summary-errors']//li (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50369}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50369/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 75127650dac17ecfc782c4eb138da562
+[INFO] 01-08-2023 23:40:41 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 01-08-2023 23:42:48 [main] LogUtils - Running test case loginUsernameWrong
+[ERROR] 01-08-2023 23:42:55 [main] LogUtils - Test case loginUsernameWrong is failed.
+[ERROR] 01-08-2023 23:42:55 [main] LogUtils - java.lang.AssertionError: Fail! expected [No customer account found.] but found [No customer account found]
+[INFO] 01-08-2023 23:42:56 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 02-08-2023 00:00:58 [main] LogUtils - Running test case loginPasswordWrong
+[ERROR] 02-08-2023 00:01:28 [main] LogUtils - Test case loginPasswordWrong is failed.
+[ERROR] 02-08-2023 00:01:28 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='message-error validation-summary-errors']//li (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:51180}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51180/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 27aab3d74d203db6da3001b239c15ac7
+[INFO] 02-08-2023 00:01:29 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 02-08-2023 00:02:17 [main] LogUtils - Running test case loginPasswordWrong
+[ERROR] 02-08-2023 00:02:25 [main] LogUtils - Test case loginPasswordWrong is failed.
+[ERROR] 02-08-2023 00:02:25 [main] LogUtils - java.lang.AssertionError: Fail! expected [The credentials provided are incorrect.] but found [The credentials provided are incorrect]
+[INFO] 02-08-2023 00:02:26 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 02-08-2023 00:17:03 [main] LogUtils - Running test case loginEmailWrongFormat
+[ERROR] 02-08-2023 00:17:09 [main] LogUtils - Test case loginEmailWrongFormat is failed.
+[ERROR] 02-08-2023 00:17:09 [main] LogUtils - java.lang.AssertionError: Fail! expected [Wrong email.] but found [Wrong email]
+[INFO] 02-08-2023 00:17:10 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 02-08-2023 00:18:33 [TestNG-test=Login Test on Chrome-5] LogUtils - Running test case loginUsernameWrong
+[INFO] 02-08-2023 00:18:33 [TestNG-test=Login Test on Chrome-1] LogUtils - Running test case loginEmailWrongFormat
+[INFO] 02-08-2023 00:18:33 [TestNG-test=Login Test on Chrome-4] LogUtils - Running test case loginUsernameNull
+[INFO] 02-08-2023 00:18:33 [TestNG-test=Login Test on Chrome-2] LogUtils - Running test case loginPageSuccess
+[INFO] 02-08-2023 00:18:33 [TestNG-test=Login Test on Chrome-3] LogUtils - Running test case loginPasswordWrong
+[ERROR] 02-08-2023 00:18:34 [TestNG-test=Login Test on Chrome-2] LogUtils - Test case loginPageSuccess is skipped.
+[ERROR] 02-08-2023 00:18:34 [TestNG-test=Login Test on Chrome-2] LogUtils - org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Response code 500. Message: session not created
+from no such execution context: loader has changed while resolving nodes
+  (Session info: chrome=115.0.5790.110) 
+Host info: host: 'DESKTOP-FJ5LOAI', ip: '192.168.32.7'
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-allow-origins=*], extensions: []}}]}]
+[INFO] 02-08-2023 00:18:41 [TestNG-test=Login Test on Chrome-4] LogUtils - Test case loginUsernameNull is passed.
+[INFO] 02-08-2023 00:18:41 [TestNG-test=Login Test on Chrome-1] LogUtils - Test case loginEmailWrongFormat is passed.
+[INFO] 02-08-2023 00:18:42 [TestNG-test=Login Test on Chrome-5] LogUtils - Test case loginUsernameWrong is passed.
+[INFO] 02-08-2023 00:18:42 [TestNG-test=Login Test on Chrome-3] LogUtils - Test case loginPasswordWrong is passed.
+[INFO] 02-08-2023 00:18:42 [main] LogUtils - End testing Login Test on Chrome
+[INFO] 02-08-2023 00:20:00 [TestNG-test=Login Test on Chrome-2] LogUtils - Running test case loginPageSuccess
+[INFO] 02-08-2023 00:20:00 [TestNG-test=Login Test on Chrome-1] LogUtils - Running test case loginEmailWrongFormat
+[INFO] 02-08-2023 00:20:00 [TestNG-test=Login Test on Chrome-5] LogUtils - Running test case loginUsernameWrong
+[INFO] 02-08-2023 00:20:00 [TestNG-test=Login Test on Chrome-3] LogUtils - Running test case loginPasswordWrong
+[INFO] 02-08-2023 00:20:00 [TestNG-test=Login Test on Chrome-4] LogUtils - Running test case loginUsernameNull
+[INFO] 02-08-2023 00:20:07 [TestNG-test=Login Test on Chrome-4] LogUtils - Test case loginUsernameNull is passed.
+[INFO] 02-08-2023 00:20:07 [TestNG-test=Login Test on Chrome-1] LogUtils - Test case loginEmailWrongFormat is passed.
+[INFO] 02-08-2023 00:20:08 [TestNG-test=Login Test on Chrome-5] LogUtils - Test case loginUsernameWrong is passed.
+[INFO] 02-08-2023 00:20:08 [TestNG-test=Login Test on Chrome-3] LogUtils - Test case loginPasswordWrong is passed.
+[INFO] 02-08-2023 00:20:09 [TestNG-test=Login Test on Chrome-2] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 02-08-2023 00:20:10 [main] LogUtils - End testing Login Test on Chrome
