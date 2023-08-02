@@ -5,7 +5,7 @@ import helpers.SystemsHelper;
 import org.testng.annotations.DataProvider;
 
 public class DataLogin {
-    @DataProvider(name = "dataLoginCRM",parallel = true)
+    @DataProvider(name = "dataLoginCRM")
     public Object[][] dataLoginCRM() {
         return new Object[][]{
                 {"admin@example.com", "123456"},
@@ -21,6 +21,7 @@ public class DataLogin {
                 {"admin@example.com", "123456", 1234}
         };
     }
+    // lấy data test từ excel bằng dataprovider chạy nhiều trình duyệt
     @DataProvider(name = "data_provider_login_excel",parallel = true)
     public Object[][] dataLoginHRMFromExcel() {
         ExcelHelper excelHelpers = new ExcelHelper();
