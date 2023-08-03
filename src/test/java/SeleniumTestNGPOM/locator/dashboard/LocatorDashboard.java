@@ -8,4 +8,5 @@ public class LocatorDashboard {
 
     public static By menuCatalog = By.xpath("//p[normalize-space()='Catalog']");
     public static By submenuCategories = By.xpath("//p[normalize-space()='Categories']");
+    public static By submenuProducts = By.xpath("//p[normalize-space()='Products']");
 }

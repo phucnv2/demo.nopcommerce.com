@@ -502,3 +502,47 @@ Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goo
 [INFO] 02-08-2023 22:40:42 [main] LogUtils - Running test case loginUsernameWrong
 [INFO] 02-08-2023 22:40:48 [main] LogUtils - Test case loginUsernameWrong is passed.
 [INFO] 02-08-2023 22:40:50 [main] LogUtils - End testing Login Test on Chrome
+[INFO] 03-08-2023 23:53:56 [main] LogUtils - Running test case openMenuCatalog
+[INFO] 03-08-2023 23:54:09 [main] LogUtils - Test case openMenuCatalog is passed.
+[INFO] 03-08-2023 23:54:10 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 03-08-2023 23:55:24 [main] LogUtils - Running test case openMenuCatalog
+[INFO] 03-08-2023 23:55:46 [main] LogUtils - Test case openMenuCatalog is passed.
+[INFO] 03-08-2023 23:55:47 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 04-08-2023 00:50:29 [main] LogUtils - Running test case loginEmailWrongFormat
+[INFO] 04-08-2023 00:50:45 [main] LogUtils - Test case loginEmailWrongFormat is passed.
+[INFO] 04-08-2023 00:50:48 [main] LogUtils - Running test case loginPageSuccess
+[ERROR] 04-08-2023 00:51:11 [main] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 04-08-2023 00:51:11 [main] LogUtils - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@class='page-title']//h1 (tried for 20 second(s) with 500 milliseconds interval)
+[ERROR] 04-08-2023 00:51:11 [main] LogUtils - Test case loginPageSuccess is failed.
+[ERROR] 04-08-2023 00:51:11 [main] LogUtils - org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=115.0.5790.110)
+Build info: version: '4.9.0', revision: 'd7057100a6'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5e9e613b504462b0ef7652f0fe9fb025, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\Admin\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55107}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55107/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5e9e613b504462b0ef7652f0fe9fb025
+[INFO] 04-08-2023 00:51:11 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 04-08-2023 00:52:03 [main] LogUtils - Running test case loginPageSuccess
+[INFO] 04-08-2023 00:52:15 [main] LogUtils - Test case loginPageSuccess is passed.
+[INFO] 04-08-2023 00:52:16 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 04-08-2023 01:14:27 [main] LogUtils - Running test case addNewCustomer
+[ERROR] 04-08-2023 01:14:34 [main] LogUtils - Test case addNewCustomer is failed.
+[ERROR] 04-08-2023 01:14:34 [main] LogUtils - java.lang.AssertionError: Fail! expected [Please enter your email] but found [Wrong email]
+[INFO] 04-08-2023 01:14:35 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 04-08-2023 01:16:01 [main] LogUtils - Running test case addNewCustomer
+[INFO] 04-08-2023 01:16:39 [main] LogUtils - Running test case addNewCustomer
+[INFO] 04-08-2023 01:17:02 [main] LogUtils - Test case addNewCustomer is passed.
+[INFO] 04-08-2023 01:17:03 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 04-08-2023 01:26:03 [main] LogUtils - Running test case addNewProduct
+[ERROR] 04-08-2023 01:26:22 [main] LogUtils - Test case addNewProduct is failed.
+[ERROR] 04-08-2023 01:26:23 [main] LogUtils - java.lang.AssertionError: expected [true] but found [false]
+[INFO] 04-08-2023 01:26:24 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 04-08-2023 01:27:04 [main] LogUtils - Running test case addNewProduct
+[ERROR] 04-08-2023 01:27:19 [main] LogUtils - Test case addNewProduct is failed.
+[ERROR] 04-08-2023 01:27:20 [main] LogUtils - java.lang.AssertionError: expected [true] but found [false]
+[INFO] 04-08-2023 01:27:21 [main] LogUtils - End testing demo.nopcommerce.com
+[INFO] 04-08-2023 01:29:27 [main] LogUtils - Running test case addNewProduct
+[INFO] 04-08-2023 01:29:45 [main] LogUtils - Test case addNewProduct is passed.
+[INFO] 04-08-2023 01:29:46 [main] LogUtils - End testing demo.nopcommerce.com

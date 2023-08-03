@@ -5,15 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53b9c481-a48f-49a9-8bc2-2eb5251dd627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/catalog/categories/LocatorAddNewCategories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/catalog/categories/LocatorCategories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/catalog/categories/LocatorEditCategories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/catalog/products/LocatorProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/catalog/categories/CategoriesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/catalog/products/AddNewProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/catalog/products/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/catalog/categories/CategoriesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/catalog/product/ProductsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/app-properties.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app-properties.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/extentreport/extentreport.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/extentreport/extentreport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test-suites/LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test-suites/LoginTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/dataproviders/DataLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/dataproviders/DataLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/catalog/products/LocatorProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/catalog/products/LocatorProducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/dashboard/LocatorDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/dashboard/LocatorDashboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/dashboard/DashboardPageCommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/dashboard/DashboardPageCommerce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/dashboard/DashboardTestCommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/dashboard/DashboardTestCommerce.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,19 +56,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/demo.nopcommerce.com/src/test/java/SeleniumTestNGPOM/locator",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "settings.editor.splitter.proportion": "0.17939915"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/demo.nopcommerce.com/src/test/java/SeleniumTestNGPOM/locator&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.17939915&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\demo.nopcommerce.com\src\test\java\SeleniumTestNGPOM\locator" />
@@ -81,28 +84,35 @@
       <command value="mvn clean test" />
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/demo.nopcommerce.com/src/test-suites/LoginTest.xml">
-    <configuration name="D:/demo.nopcommerce.com/src/test-suites/LoginTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ProductsTest.addNewProduct">
+    <configuration name="CustomersTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTestNG" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test-suites/LoginTest.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.CustomersTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTestCommerce.loginEmailWrongFormat" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CustomersTest.addNewCustomer" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.login.*" />
+          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.login" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.login.LoginTestCommerce" />
-      <option name="METHOD_NAME" value="loginEmailWrongFormat" />
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.CustomersTest" />
+      <option name="METHOD_NAME" value="addNewCustomer" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -110,7 +120,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTestCommerce.loginPasswordWrong" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTestCommerce" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTestNG" />
       <extension name="coverage">
         <pattern>
@@ -120,7 +130,24 @@
       </extension>
       <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.login" />
       <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.login.LoginTestCommerce" />
-      <option name="METHOD_NAME" value="loginPasswordWrong" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestCommerce.loginPageSuccess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.login" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.login.LoginTestCommerce" />
+      <option name="METHOD_NAME" value="loginPageSuccess" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -128,35 +155,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTestCommerce.loginUsernameNull" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductsTest.addNewProduct" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTestNG" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.login.*" />
+          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.catalog.product.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.login" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.login.LoginTestCommerce" />
-      <option name="METHOD_NAME" value="loginUsernameNull" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTestCommerce.loginUsernameWrong" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeleniumTestNGPOM.testcases.login.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.login" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.login.LoginTestCommerce" />
-      <option name="METHOD_NAME" value="loginUsernameWrong" />
+      <option name="PACKAGE_NAME" value="SeleniumTestNGPOM.testcases.catalog.product" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumTestNGPOM.testcases.catalog.product.ProductsTest" />
+      <option name="METHOD_NAME" value="addNewProduct" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -166,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.D:/demo.nopcommerce.com/src/test-suites/LoginTest.xml" />
-        <item itemvalue="TestNG.LoginTestCommerce.loginEmailWrongFormat" />
-        <item itemvalue="TestNG.LoginTestCommerce.loginPasswordWrong" />
-        <item itemvalue="TestNG.LoginTestCommerce.loginUsernameWrong" />
-        <item itemvalue="TestNG.LoginTestCommerce.loginUsernameNull" />
+        <item itemvalue="TestNG.ProductsTest.addNewProduct" />
+        <item itemvalue="TestNG.CustomersTest" />
+        <item itemvalue="TestNG.CustomersTest.addNewCustomer" />
+        <item itemvalue="TestNG.LoginTestCommerce.loginPageSuccess" />
+        <item itemvalue="TestNG.LoginTestCommerce" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +197,17 @@
   <component name="UnknownFeatures">
     <option featureType="dependencySupport" implementationName="java:io.cucumber:cucumber-java" />
     <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/keyword/WebUI.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/demo_nopcommerce_com$LoginTestCommerce_loginPageSuccess.ic" NAME="LoginTestCommerce.loginPageSuccess Coverage Results" MODIFIED="1690823084846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
