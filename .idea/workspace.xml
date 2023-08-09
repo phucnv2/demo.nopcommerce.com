@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53b9c481-a48f-49a9-8bc2-2eb5251dd627" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/catalog/categories/CategoriesPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/catalog/products/AddNewProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/catalog/products/ProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/catalog/categories/CategoriesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/catalog/product/ProductsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/app-properties.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app-properties.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/extentreport/extentreport.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/extentreport/extentreport.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/catalog/products/LocatorProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/catalog/products/LocatorProducts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/dashboard/LocatorDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/locator/dashboard/LocatorDashboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/dashboard/DashboardPageCommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/dashboard/DashboardPageCommerce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/dashboard/DashboardTestCommerce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/dashboard/DashboardTestCommerce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/catalog/products/AddNewProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/pages/catalog/products/AddNewProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/catalog/product/ProductsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SeleniumTestNGPOM/testcases/catalog/product/ProductsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -14,8 +14,6 @@ public class ProductsTest extends BaseTest {
     DashboardPageCommerce dashboardPageCommerce;
     AddNewProductPage addNewProductPage;
 
-
-//    AddNewProductPage productPage;
     @Test
     public void addNewProduct(){
         CaptureHelpers.startRecord("addNewProduct");

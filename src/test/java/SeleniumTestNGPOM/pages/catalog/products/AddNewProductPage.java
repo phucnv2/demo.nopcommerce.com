@@ -15,7 +15,11 @@ public class AddNewProductPage {
     public void addNewProduct(String nameProduct){
         verifyAddNewProductsPage();
         senkeyText(inputNameProduct,nameProduct);
-//        senkeyText();
+        senkeyText(textareaShortDescription,"NGUYEN VAN PHUC");
+        senkeyText(textareaFulldescription,"NGUYEN VAN PHUC NGUYEN VAN PHUC");
+        senkeyText(inputSKU,"PHUC");
+        clickElement(dropdownCategories);
+        senkeyText(inputCategories_dropdown,"Computers");
         clickElement(buttonSaveProduct);
         waitForPageLoaded();
     }

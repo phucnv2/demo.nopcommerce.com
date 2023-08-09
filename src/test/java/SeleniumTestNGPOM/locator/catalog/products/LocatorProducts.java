@@ -13,9 +13,12 @@ public class LocatorProducts {
     public static By textareaFulldescription = By.xpath("//div[@class='tox-edit-area']");
     public static By inputSKU = By.xpath("//input[@id='Sku']");
     public static By dropdownCategories = By.xpath("//div[@class='form-group row']//div[@role='listbox']");
+    public static By inputCategories_dropdown = By.xpath("//div[@class='form-group row']//input[@role='listbox']");
     public static By dropdownManufacturers = By.xpath("//div[@class='form-group row']//div[@role='listbox']");
     public static By checkboxPublished = By.xpath("//div[@class='form-group row']//div[@role='listbox']");
     public static By inputProductTags = By.xpath("//div[@class='form-group row']//div[@role='listbox']");
     public static By inputPrice = By.xpath("//div[@id='product-price-area']//input[@title='0.0000 USD']");
+    public static By textareaAdminComment = By.xpath("//textarea[@id='AdminComment']");
+
     public static By buttonSaveProduct = By.xpath("//button[@name='save']");
 }
